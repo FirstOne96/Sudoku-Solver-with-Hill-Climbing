@@ -19,8 +19,8 @@ This project implements a Sudoku solver using the Hill Climbing algorithm. It co
 ## 🚀 Installation
 1. Clone the repository:
    ```bash
-   git clone git@gitlab.fit.cvut.cz:kozloan3/bi-zum-ls2025-kozloan3.git
-   cd bi-zum-ls2025-kozloan3/semestral
+   git clone https://github.com/FirstOne96/Sudoku-Solver-with-Hill-Climbing.git
+   cd Sudoku-Solver-with-Hill-Climbing
    ```
 2. Install the required packages:
    ```bash
